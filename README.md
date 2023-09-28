@@ -1,3 +1,1 @@
 # NovelRangeWiseOptimizationOfTheExponentialBound
-
-The
